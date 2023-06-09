@@ -142,7 +142,3 @@ alias ls="ls -la"
 alias reboot="sudo reboot"
 alias shutdown="shutdown now"
 alias clearhistory="history -c"
-
-# Open Development Folder On Load
-# -------------------------------
-cd Development
